@@ -33,7 +33,7 @@ Fish, dig, catch bugs and craft on an island of your own, then meet friends in a
 
 <!-- stats:end -->
 
-These numbers come from the private repository. They are counts and dates only: no code, no commit messages.
+These numbers update automatically from the private repository. They are counts and dates only: no code, no commit messages.
 
 ## Built with
 
