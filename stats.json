@@ -1,17 +1,17 @@
 {
-  "commits": 458,
+  "commits": 465,
   "active_days": 29,
-  "commits_last_7_days": 42,
+  "commits_last_7_days": 49,
   "started": "2026-09-23",
   "last_update": "2026-10-27",
   "languages": [
     {
       "name": "Luau",
-      "share": 83.9
+      "share": 84.1
     },
     {
       "name": "Python",
-      "share": 15.6
+      "share": 15.3
     }
   ]
 }
