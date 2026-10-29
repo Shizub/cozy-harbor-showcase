@@ -24,12 +24,12 @@ Fish, dig, catch bugs and craft on an island of your own, then meet friends in a
 
 | | |
 |---|---|
-| Commits | 478 |
-| Days of active development | 29 |
-| Commits in the last 7 days | 54 |
+| Commits | 488 |
+| Days of active development | 30 |
+| Commits in the last 7 days | 64 |
 | Development started | 23 Sep 2026 |
-| Last update | 27 Oct 2026 |
-| Languages | Luau 84% · Python 15% |
+| Last update | 29 Oct 2026 |
+| Languages | Luau 83% · Python 15% · TypeScript 1% |
 
 <!-- stats:end -->
 
